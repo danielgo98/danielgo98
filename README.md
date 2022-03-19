@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielgo98
 - 👀 I’m interested in full-stack web development and Java technologies.
-- 🌱 I’m currently learning in front end: HTML and CSS, actually XML. In back end: Java and MySQL.
+- 🌱 I’m currently learning in front end: HTML and CSS, actually XML. In back end: Java, MySQL and Oracle.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
