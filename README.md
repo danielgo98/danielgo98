@@ -1,5 +1,5 @@
-## H2 👋 Hi I'm Daniel
-
+## 👋 Hi I'm Daniel
+---
 <!--
 **danielgo98/danielgo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
