@@ -17,11 +17,17 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
    
 ## 💻 My Knowledges
 
-  <table align="center">
-    <tr>
-      <th colspan = "3">IN FRONTED</th>
-    </tr>
-    <tr>
-      <td>[HTML5](https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667)</td>
-    </tr>
-  </table>
+   <h3>In Fronted: </h3>
+    - **HTML5**
+    - **CSS3**
+    - **JavaScript**
+    - **TypeScript**
+    - **Bootstrap**
+    - **Angular JS**
+    
+    <h3>In Backend: </h3>
+    - **Java**
+    - **MySQL**
+    - **Oracle SQL Server**
+    - **PHP**
+    - **Symfony**
