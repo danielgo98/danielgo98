@@ -16,13 +16,7 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
   - **PHP** and **Symfony**
    
 ## 💻 My Knowledges
-
   <h3>In Fronted: </h3>
-      - **HTML5**
-      - **CSS3**
-      - **JavaScript**
-      - **TypeScript**
-      - **Bootstrap**
-      - **Angular JS**
+  - **HTML5**
       
    <h3> In Backend: </h3>
