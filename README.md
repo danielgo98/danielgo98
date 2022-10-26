@@ -16,3 +16,8 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
   - **PHP** and **Symfony**
    
 ## 💻 My Knowledges
+
+  <table align="center">
+    <tr>
+      <th colspan = "3">IN FRONTED</th>
+  </table>
