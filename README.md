@@ -17,17 +17,12 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
    
 ## 💻 My Knowledges
 
-   <h3>In Fronted: </h3>
-    - **HTML5**
-    - **CSS3**
-    - **JavaScript**
-    - **TypeScript**
-    - **Bootstrap**
-    - **Angular JS**
-    
-    <h3>In Backend: </h3>
-    - **Java**
-    - **MySQL**
-    - **Oracle SQL Server**
-    - **PHP**
-    - **Symfony**
+  <h3>In Fronted: </h3>
+      - **HTML5**
+      - **CSS3**
+      - **JavaScript**
+      - **TypeScript**
+      - **Bootstrap**
+      - **Angular JS**
+      
+   <h3> In Backend: </h3>
