@@ -8,3 +8,11 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
 ## 📚 Educations
 - I have a Superior grade formative course of Telecommunications (STI) (2019/2021) at [Azarquiel](http://www.ies-azarquiel.es/)
 - I have a Superior grade formative course of Web Development (DAW) (2021/2023) al [Julio Verne](http://ies-julioverne.centros.castillalamancha.es/)
+
+## 👨‍💻 Current Learning
+  - **JavaScript** and **Angular JS**
+  - **TypeScript**
+  - **CSS3** and **Bootstrap**
+  - **PHP** and **Symfony**
+   
+## 💻 My Knowledges
