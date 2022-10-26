@@ -18,7 +18,12 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
 ## 💻 My Knowledges
   <h3>In Fronted: </h3>
   <ul>
-  <li><b>HTML5</b></li>
+    <li><b>HTML5</b></li>
+    <li><b>CSS3</b></li>
+    <li><b>JavaScript</b></li>
+    <li><b>Angular JS</b></li>
+    <li><b>TypeScript</b></li>
+    <li><b>Bootstrap</b></li>
   </ul>
       
    <h3> In Backend: </h3>
