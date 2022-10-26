@@ -14,6 +14,7 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
   - **TypeScript**
   - **CSS3** and **Bootstrap**
   - **PHP** and **Symfony**
+  - **Spring**
    
 ## 💻 My Knowledges
   <h3>In Fronted: </h3>
@@ -27,3 +28,10 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
   </ul>
       
    <h3> In Backend: </h3>
+   <ul>
+    <li><b>Java</b></li>
+    <li><b>MySQL</b></li>
+    <li><b>Oracle SQL Server</b></li>
+    <li><b>PHP</b></li>
+    <li><b>Symfony</b></li>
+  </ul>
