@@ -1,9 +1,7 @@
 ## 👋 Hi I'm Daniel
 
 ## 😋 About me
-I´m 23 web developer i love all about new technologies, open source, fullstack web development.
-I´m currently learning in frontend HTML5, CSS3 and JS
-and in backend i have knowledges in Java, MySQL and SQL server and currently learning PHP.
+I´m 23 web developer i love all about new technologies, open source, fullstack web development i'm self-taught person to improve my codes habilities
 
 ## 📚 Educations
 - I have a Superior grade formative course of Telecommunications (STI) (2019/2021) at [Azarquiel](http://www.ies-azarquiel.es/)
