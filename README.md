@@ -17,6 +17,8 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
    
 ## 💻 My Knowledges
   <h3>In Fronted: </h3>
-  - **JavaScript** and **Angular JS**
+  <ul>
+  <li><b>HTML5</b></li>
+  </ul>
       
    <h3> In Backend: </h3>
