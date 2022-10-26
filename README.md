@@ -20,4 +20,8 @@ and in backend i have knowledges in Java, MySQL and SQL server and currently lea
   <table align="center">
     <tr>
       <th colspan = "3">IN FRONTED</th>
+    </tr>
+    <tr>
+      <td> <a href="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667">HTML5</a>
+    </tr>
   </table>
