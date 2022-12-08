@@ -15,7 +15,7 @@ I´m 23 years old web developer i love all about new technologies, open source, 
   - **Spring**
    
 ## 💻 My Knowledges
-  <h3>In Fronted: </h3>
+  <h3>In Frontend: </h3>
   <ul>
     <li><b>HTML5</b></li>
     <li><b>CSS3</b></li>
