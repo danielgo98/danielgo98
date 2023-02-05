@@ -10,7 +10,6 @@ I´m 23 years old web developer i love all about new technologies, open source, 
 ## 👨‍💻 Current Learning
   - **JavaScript** and **Angular JS**
   - **TypeScript**
-  - **CSS3** and **Bootstrap**
   - **PHP** and **Symfony**
   - **Spring**
    
