@@ -22,7 +22,7 @@
 | TypeScript| true   | false  |
 | Node JS| true   | false     |
 
-## Github Analitycs
+## ⚙️Github Analitycs
 <div style="display: flex; width: 100%;">
   <div style="flex: 1; height: 180px;">
     <a href="https://github.com/danielgo98">
