@@ -9,7 +9,7 @@
   - 📩 Contact: daniel.andres.bravo10@gmail.com.
 
 ## 🚀 Favourite Technologies
-<table align="center">
+<table>
   <tr>
     <td align="center" width="33%">
       <span>Java</span><br><br>
