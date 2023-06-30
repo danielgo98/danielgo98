@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <span>VS Code</span><br><br>
+      <span>Visual Studio Code</span><br><br>
       <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/dbc313e7-2ab0-4c1f-b373-55fc6c3483fc"></img>
     </td>
     <td align="center" width="33%">
