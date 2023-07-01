@@ -13,11 +13,11 @@
   <tr>
     <td align="center" width="33%">
       <span>Java</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/f924d1da-c73d-4113-89bf-2228312f0ecf"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/java.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Spring Framework</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/d37a5676-977d-47f4-aaaa-b4eba1497455"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Spring Boot</span><br><br>
@@ -27,49 +27,49 @@
   <tr>
     <td align="center" width="33%">
       <span>JavaScript</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/30e72aa4-15cf-442b-bc6b-52631e19b65d"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Angular</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/ab4662a2-e1bb-41f4-8bfe-8abdf2554be6"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>React</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/3497266e-eca1-47cc-bdbc-4b2221137d3f"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/react.svg"></img>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <span>CSS</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/2d127e52-6c7f-4bdd-b464-bd01f392a76b"></img>
+      <span>CSS3</span><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Bootstrap</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/bba6be6d-702f-43a5-b50b-1dc185e2df57">
+      <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
     </td>
     <td align="center" width="33%">
       <span>Tailwind</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/f70940f9-b4f4-4b20-b919-44723386323b">
+      <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <span>Node JS</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/20bb5917-f0d5-4e03-b62e-52ec9d5b6d56"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Git</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/bd025528-3059-4af3-be36-9d8fc02e9b2f">
+      <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
     </td>
     <td align="center" width="33%">
       <span>TypeScript</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/f9d2cc81-3f52-4bba-a3e3-37a148d6a6ec">
+      <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
     </td>
   </tr>
     <tr>
     <td align="center" width="33%">
       <span>MySQL</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/82e33645-3cef-461e-8329-151ee7b4aca9"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>MariaDB</span><br><br>
@@ -77,13 +77,13 @@
     </td>
     <td align="center" width="33%">
       <span>Oracle SQL</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/36da4bbf-78dc-4aa3-bfc3-c03ef76c8a46">
+      <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <span>VS Code</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/dbc313e7-2ab0-4c1f-b373-55fc6c3483fc"></img>
+      <span>Visual Studio Code</span><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Eclipse IDE</span><br><br>
@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="33%">
       <span>Intellij IDEA</span><br><br>
-      <img height="64px" src="https://github.com/danielgo98/danielgo98/assets/97679916/6cb054e5-64d9-4387-9af2-577d6b99c9c2">
+      <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
     </td>
   </tr>
 </table>
