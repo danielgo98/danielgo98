@@ -3,9 +3,8 @@
 
 ## 😋 About me
 
-  - 🔭 Java developer seeking job opportunities
+  - 🔭 Java developer in Hiberus
   - 🌱 Learning full-stack web development.
-  - 💬 Ask me about web development!
   - 📩 Contact: daniel.andres.bravo10@gmail.com.
 
 ## 🚀 Favourite Technologies
