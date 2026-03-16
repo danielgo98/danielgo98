@@ -3,7 +3,7 @@
 
 ## 😋 About me
 
-  - 🔭 Java developer in Hiberus
+  - 🔭 Java developer in NTT DATA
   - 🌱 Learning full-stack web development.
   - 📩 Contact: daniel.andres.bravo10@gmail.com.
 
