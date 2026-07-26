@@ -4,7 +4,6 @@
 ## 😋 About me
 
   - 🔭 Java developer in NTT DATA
-  - 🌱 Learning full-stack web development.
   - 📩 Contact: daniel.andres.bravo10@gmail.com.
 
 ## 🚀 Favourite Technologies
@@ -25,24 +24,10 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <span>JavaScript</span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></img>
-    </td>
-    <td align="center" width="33%">
       <span>Angular</span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg"></img>
     </td>
-    <td align="center" width="33%">
-      <span>React</span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/react.svg"></img>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <span>CSS3</span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></img>
-    </td>
-    <td align="center" width="33%">
+      <td align="center" width="33%">
       <span>Bootstrap</span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
     </td>
@@ -54,7 +39,7 @@
   <tr>
     <td align="center" width="33%">
       <span>Node JS</span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"></img>
+      <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg"></img>
     </td>
     <td align="center" width="33%">
       <span>Git</span><br><br>
