@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <span>Node JS</span><br><br>
+      <span>Nest JS</span><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg"></img>
     </td>
     <td align="center" width="33%">
