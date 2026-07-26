@@ -71,8 +71,8 @@
       <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg"></img>
     </td>
     <td align="center" width="33%">
-      <span>MariaDB</span><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
+      <span>PostgreSQL</span><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
     </td>
     <td align="center" width="33%">
       <span>Oracle SQL</span><br><br>
